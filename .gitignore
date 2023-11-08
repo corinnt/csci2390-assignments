@@ -2,4 +2,4 @@ __pycache__
 *.png
 venv
 *.pyc
-/libsodium-stable
+cryptograph-homework/libsodium-stable
