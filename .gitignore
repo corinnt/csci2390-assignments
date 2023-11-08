@@ -3,3 +3,4 @@ __pycache__
 venv
 *.pyc
 cryptograph-homework/libsodium-stable
+*DS_STORE
